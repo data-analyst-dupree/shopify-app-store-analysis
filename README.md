@@ -6,12 +6,19 @@
 
 ## Key Insight
 Three app categories stand out in terms of average review ratings and total reviews:
+
 -Sales and Conversion with an average rating of 4.35 and 916 reviews
--Reviews and Ratings with an average rating of 4.20 and 1.07k reviews 
--Seo with an average rating of 4.10 with 1.15k reviews. 
+
+-Reviews and Ratings with an average rating of 4.20 and 1.07k reviews
+
+-Seo with an average rating of 4.10 with 1.15k reviews
+
 However, the number of apps in these categories launched in 2023 is in decline with: 
+
 -Sales and Conversion at only 2 apps launched 
+
 -Reviews and Ratings with only 4 apps launched 
+
 -Seo with 6 apps launched
 
 ## Business Impact
