@@ -13,16 +13,16 @@ Three app categories stand out in terms of average review ratings and total revi
 
 -Seo with an average rating of 4.10 with 1.15k reviews
 
-However, the number of apps in these categories launched in 2023 is in decline with: 
+However, the average developer reply percentage for these categories is:
 
--Sales and Conversion at only 2 apps launched 
+-Sales and Conversion with 25.1%
 
--Reviews and Ratings with only 4 apps launched 
+-Reviews and Ratings with 24.5%
 
--Seo with 6 apps launched
+-Seo with 26.6%
 
 ## Business Impact
-With the decline in launches of new apps these well-performing categories can become at risk of stagnating. Without new products to lead the market, Shopify is at risk of competitors stepping in and capitalizing on these app categories.  
+With a total average app rating of 4.19 and 7.98k reviews in all, business health is strong and users are engaged. With only 24.8% of all users getting a reply to their review, there is opportunity to drive ratings and engagement further.
 
 ## Recommendation
-We recommend that Shopify allocate the proper resources to keep apps in these categories launching at a consistent pace with quality checks to ensure a maintained high average rating.
+We recommend that Shopify dedicate the proper resources to increase the reply percentage to reviews left by users, particularly focusing on the three categories mentioned above, but not excluding other categories. This can help users to feel more engaged and also provide an opportunity to drive ratings even further. Also, we recommend Shopify initiate a quality check on new apps being launched, to additionally improve overall app rating.
